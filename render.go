@@ -3,8 +3,8 @@ package prompt
 import (
 	"runtime"
 
-	"github.com/tengteng/go-prompt/internal/debug"
 	runewidth "github.com/mattn/go-runewidth"
+	"github.com/vikasrao23/go-prompt/internal/debug"
 )
 
 // Render to render prompt information from state of Buffer.

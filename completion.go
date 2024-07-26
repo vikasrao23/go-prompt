@@ -4,7 +4,7 @@ import (
 	"strings"
 
 	runewidth "github.com/mattn/go-runewidth"
-	"github.com/tengteng/go-prompt/internal/debug"
+	"github.com/vikasrao23/go-prompt/internal/debug"
 )
 
 const (
